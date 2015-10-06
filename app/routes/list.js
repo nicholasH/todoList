@@ -1,5 +1,5 @@
 import Ember from 'ember';
-import Todo from 'todoList/models/todo';
+import Todo from 'todo-list/models/todo';
 
 
 export default Ember.Route.extend({
